@@ -6,7 +6,6 @@ const Home = () => {
     <div>
       <Headers></Headers>
       <Outlet></Outlet>
-      <h1>This is Home Page</h1>
     </div>
   );
 };

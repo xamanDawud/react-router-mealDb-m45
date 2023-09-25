@@ -1,0 +1,11 @@
+.menu-btn {
+  background-color: seagreen;
+  padding: 10px;
+  border-radius: 5px;
+  color: black;
+  margin-right: 20px;
+}
+
+div a.active {
+  background-color: darkcyan;
+}
